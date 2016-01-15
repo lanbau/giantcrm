@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  p what is your #{name}
+  p what is your #{jackshit}
+  link(rel='import', href='/components/polymer/polymer.html')
+  link(rel='import', href='/components/google-signin/google-signin.html')
+  link(rel='import', href='/components/google-calendar/google-calendar.html')
+  script(src='/javascripts/frontend.js')
+  proto-element
+  google-signin(client-id="920068089416-onhjm1li4culs8m543s50e5fgemuc3kf.apps.googleusercontent.com")
+  google-calendar-list
