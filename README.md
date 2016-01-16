@@ -18,16 +18,6 @@ GiantCRM is a WDI Project 3 created by @lanbau & @shawnlimws. It is a customer r
 8. Retrieve Your TripAdvisor's Profile Page Reviews (Company), Using IBM Watson Personality Insights To Get an Alternative Feedback of Your Customer Reviews.
 9. Using Concept Insights To Parse A News Article From Channel News Asia & Display a List of Relevant Wikipedia Topics Found Within the Article.
 
-### Installation Instructions
-1. clone this repo
-2. ```npm install --save```
-3. ```bower install```
-4. ```npm start```
-5. visit http://localhost:5000 in your browser
-
-### Testing 
-1. Run ```mocha``` in your cli
-
 ### Technologies Used
 - Express
 - Jade
@@ -44,3 +34,13 @@ GiantCRM is a WDI Project 3 created by @lanbau & @shawnlimws. It is a customer r
 - Gmail
 - IBM Watson Personality Insights
 - IBM Watson Concept Insights
+
+### Installation Instructions
+1. clone this repo
+2. ```npm install --save```
+3. ```bower install```
+4. ```npm start```
+5. visit http://localhost:5000 in your browser
+
+### Testing 
+1. Run ```mocha``` in your cli
