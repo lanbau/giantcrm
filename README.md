@@ -1,4 +1,4 @@
-# giantcrm
+# GiantCRM - Customer Relationship Management Software For Your Business.
 
 [![Build Status](https://travis-ci.org/lanbau/giantcrm.svg?branch=master)](https://travis-ci.org/lanbau/giantcrm)
 
