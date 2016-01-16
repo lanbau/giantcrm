@@ -4,7 +4,9 @@
 
 ## Description
 
-GiantCRM is a WDI Project 3 created by @lanbau & @shawnlimws. It is a customer relationship management tool for business users to operate their business from one integration platform that is aimed to improve business productivity & agility.
+GiantCRM is a WDI Project 3 created by @lanbau & @shawnlimws. It is a customer relationship management tool for business users to operate their business from one integration platform that is aimed to improve business productivity & agility. This project is deployed on Heroku: https://giantcrm.herokuapp.com
+
+[logo]: https://raw.githubusercontent.com/lanbau/giantcrm/master/public/images/giantcrm.jpg "Hi Seb!"
 
 ## Features (Brief Overview)
 
