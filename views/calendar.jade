@@ -24,9 +24,9 @@ html(lang="en")
     //if lt IE 9
       script(src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js")
       script(src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js")
-    script(src="javascripts/admin.js")
+    // End of Bootstrap
+    // Calendar API
     script(src="javascripts/calendar.js")
-    
     script(src="https://apis.google.com/js/client.js?onload=checkAuth")
   body
     #wrapper
@@ -289,5 +289,10 @@ html(lang="en")
     //- script(src="javascripts/morris-data.js")
     // Custom Theme JavaScript
     script(src="javascripts/sb-admin-2.js")
+    // Add An Event
     script(src="javascripts/events.js")
+    noscript
+      iframe(src="//www.googletagmanager.com/ns.html?id=GTM-KZ586C", height="0", width="0", style="display:none;visibility:hidden")
+    script(src="javascripts/gtm.js")
+      
 
