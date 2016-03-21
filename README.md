@@ -46,3 +46,5 @@ GiantCRM is a WDI Project 3 created by [@lanbau](https://github.com/lanbau) & [@
 
 ### Testing 
 1. Run ```mocha``` in your cli
+
+yo
